@@ -31,4 +31,5 @@ Call to `show_args`|Output|Exit status
 ## External links
 
  * [Download the Qt Creator file `main.pro`](https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/shared/main.pro)
- * Video how to do this chapter: [YouTube](https://youtu.be/rpScbTZxIlI) [mp4](http://www.richelbilderbeek.nl/correct_cpp_show_args.mp4)
+ * Video how to do this chapter: 
+ [YouTube](https://youtu.be/rpScbTZxIlI) [mp4](http://www.richelbilderbeek.nl/correct_cpp_show_args.mp4)
