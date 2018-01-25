@@ -14,7 +14,7 @@ void cout_vector(const std::vector<std::string>& vec)
 ///Main function of the program
 int main(int argc, char* argv[])
 {
-      const std::vector<std::string> args(argv + 1, argv + argc);
+      const std::vector<std::string> args(argv, argv + argc);
         cout_vector(args);
 }
 
