@@ -1,5 +1,6 @@
 #include <iostream>
 
+///Main function of the program
 int main(int argc, char* argv[])
 {
   std::cout << argv[0];
